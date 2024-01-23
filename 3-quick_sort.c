@@ -43,7 +43,7 @@ if (above < below)
 swap_ints(array + below, array + above);
 print_array(array, size);
 }
-bove++;
+above++;
 }
 }
 
